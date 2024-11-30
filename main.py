@@ -27,15 +27,10 @@ try:
     )
 
     for item in items:
-
         try:
             # Название товара
-            name = item.find_element(By.CLASS_NAME, "product-card-name").text
-            title = name.get_attribute("title")
-            try:
-                id = item.find_element(By.CLASS_NAME, "catalog-2-level-product-card product-card subcategory-or-type__products-item with-prices-drop").text
-            except:
-                id = "idinahyi"
+            name = item.find_element(By.CLASS_NAME, "product-card-name__text").text
+
             # Цены
             try:
                 price_with_discount = item.find_element(By.CLASS_NAME, "product-price__sum-rubles").text
@@ -54,16 +49,19 @@ try:
                 brand = "Не указано"
 
             # Ссылка на товар
-            link = item.find_element(By.CLASS_NAME, "catalog-2-level-product-card__middle").get_attribute("href")
+            link = item.find_element(By.CLASS_NAME, "product-card-name")
+            link2 = link.get_attribute("href")
 
+            id = item.find_element(By.CLASS_NAME,"catalog-2-level-product-card")
+            id_get = id.get_attribute("id")
             # Добавление данных о товаре в список
             products.append({
                 "name": name,
-                "id": id,
+                "id": id_get,
                 "price_with_discount": price_with_discount,
                 "price_without_discount": price_without_discount,
                 "brand": brand,
-                "url": link
+                "url": link2
             })
         except Exception as e:
             print(f"Ошибка при обработке товара: {e}")
