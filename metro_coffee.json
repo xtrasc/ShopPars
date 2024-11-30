@@ -4,7 +4,479 @@
         "id": "122743",
         "price_with_discount": "1 999",
         "price_without_discount": "2 999 д",
-        "brand": "Не указано",
+        "brand": "Кофе Нескафе Голд ",
         "url": "https://online.metro-cc.ru/products/kofe-nescafe-gold-rastvorimiy-sublimirovanniy-s-dobavleniem-naturalnogo-zharenogo-molotogo-kofe-900g"
+    },
+    {
+        "name": "Кофе Julius Meinl Президент классическая коллекция в зернах, 1кг",
+        "id": "62828",
+        "price_with_discount": "1 399",
+        "price_without_discount": "2 349 д",
+        "brand": "Кофе Julius Meinl ",
+        "url": "https://online.metro-cc.ru/products/julius-meinl-prezident-1000g"
+    },
+    {
+        "name": "Кофе Monarch Original растворимый, 500г",
+        "id": "230303",
+        "price_with_discount": "1 299",
+        "price_without_discount": "1 979 д",
+        "brand": "Кофе Monarch Origi",
+        "url": "https://online.metro-cc.ru/products/kofe-monarch-original-rastvorimyy-500g"
+    },
+    {
+        "name": "Кофе Poetti Professional Aroma Vending зерновой, 1кг",
+        "id": "247918",
+        "price_with_discount": "1 099",
+        "price_without_discount": "1 999 д",
+        "brand": "Кофе Poetti Profes",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-poetti-professional-aroma-vending-zernovoy"
+    },
+    {
+        "name": "RIOBA Кофе в зернах натуральный жареный 100% арабика Espresso, 1кг",
+        "id": "287768",
+        "price_with_discount": "1 599",
+        "price_without_discount": "2 179 д",
+        "brand": "RIOBA Кофе в зерна",
+        "url": "https://online.metro-cc.ru/products/rioba-v-zernah-naturalnyj-zharenyj-100-arabika-espresso-1kg"
+    },
+    {
+        "name": "Кофе Poetti Daily Mokka в зернах, 1кг",
+        "id": "218718",
+        "price_with_discount": "1 099",
+        "price_without_discount": "1 679 д",
+        "brand": "Кофе Poetti Daily ",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-poetti-daily-mokka-v-zernah"
+    },
+    {
+        "name": "Кофе Egoiste трюфель крема в зернах, 1кг",
+        "id": "112993",
+        "price_with_discount": "1 699",
+        "price_without_discount": "2 449 д",
+        "brand": "Кофе Egoiste трюфе",
+        "url": "https://online.metro-cc.ru/products/kofe-v-zernah-egoiste-tryufel-krema-1kg"
+    },
+    {
+        "name": "Кофе Egoiste Arabica Premium натуральный жареный в зернах, 1кг",
+        "id": "580564",
+        "price_with_discount": "1 699",
+        "price_without_discount": "2 499 д",
+        "brand": "Кофе Egoiste Arabi",
+        "url": "https://online.metro-cc.ru/products/egoiste-v-zernah-naturalnyj-zharenyj-arabica-premium-1kg"
+    },
+    {
+        "name": "Кофе Bushido Red Katana в зернах, 1кг",
+        "id": "36574",
+        "price_with_discount": "1 899",
+        "price_without_discount": "2 519 д",
+        "brand": "Кофе Bushido Red K",
+        "url": "https://online.metro-cc.ru/products/bushido-red-1000g"
+    },
+    {
+        "name": "Кофе Egoiste Captain в зернах, 1кг",
+        "id": "228285",
+        "price_with_discount": "1 699",
+        "price_without_discount": "2 419 д",
+        "brand": "Кофе Egoiste Capta",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-egoiste-captain-v-zernah"
+    },
+    {
+        "name": "Кофе Ambassador Gold Label в зернах, 1кг",
+        "id": "102232",
+        "price_with_discount": "1 299",
+        "price_without_discount": "1 989 д",
+        "brand": "Кофе Ambassador Go",
+        "url": "https://online.metro-cc.ru/products/ambassador-gold-label-v-zernah-1000g"
+    },
+    {
+        "name": "Кофе Julius Meinl Espresso Premium Collection в зернах, 1кг",
+        "id": "654819",
+        "price_with_discount": "1 999",
+        "price_without_discount": "2 699 д",
+        "brand": "Кофе Julius Meinl ",
+        "url": "https://online.metro-cc.ru/products/v-zernah-julius-meinl-espresso-premium-kollekciya-1000g"
+    },
+    {
+        "name": "Кофе Piazza del Caffe Crema Vellutata в зернах, 1кг",
+        "id": "228231",
+        "price_with_discount": "1 099",
+        "price_without_discount": "1 389 д",
+        "brand": "Кофе Piazza del Ca",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-piazza-del-caffe-crema-vellutata-zerno"
+    },
+    {
+        "name": "RIOBA Кофе в зернах натуральный жареный 80:20, 1кг",
+        "id": "287769",
+        "price_with_discount": "1 499",
+        "price_without_discount": "1 999 д",
+        "brand": "RIOBA Кофе в зерна",
+        "url": "https://online.metro-cc.ru/products/rioba-v-zernah-naturalnyj-zharenyj-gold-1kg"
+    },
+    {
+        "name": "Кофе Lebo Classic в зернах, 1кг",
+        "id": "226341",
+        "price_with_discount": "1 449",
+        "price_without_discount": "2 159 д",
+        "brand": "Кофе Lebo Classic ",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-lebo-classic-v-zernah"
+    },
+    {
+        "name": "Кофе Jardin Eclair в зернах, 1кг",
+        "id": "101497",
+        "price_with_discount": "1 149",
+        "price_without_discount": "2 099 д",
+        "brand": "Кофе Jardin Eclair",
+        "url": "https://online.metro-cc.ru/products/jardin-eclair-1000g"
+    },
+    {
+        "name": "Кофе Fresco Blend в зернах, 1кг",
+        "id": "104561",
+        "price_with_discount": "1 399",
+        "price_without_discount": "1 749 д",
+        "brand": "Кофе Fresco Blend ",
+        "url": "https://online.metro-cc.ru/products/fresco-blend-1000g"
+    },
+    {
+        "name": "Кофе Jardin Oro в зернах, 1кг",
+        "id": "215682",
+        "price_with_discount": "1 299",
+        "price_without_discount": "2 169 д",
+        "brand": "Кофе Jardin Oro в ",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-jardin-original-oro-zernovoy"
+    },
+    {
+        "name": "Кофе Alta Roma Espresso в зернах, 1кг",
+        "id": "365548",
+        "price_with_discount": "999",
+        "price_without_discount": "1 269 д",
+        "brand": "Кофе Alta Roma Esp",
+        "url": "https://online.metro-cc.ru/products/kofe-alta-roma-espresso-v-zernakh-1kg"
+    },
+    {
+        "name": "RIOBA Кофе в зернах натуральный жареный Silver, 1кг",
+        "id": "287770",
+        "price_with_discount": "1 299",
+        "price_without_discount": "1 529 д",
+        "brand": "RIOBA Кофе в зерна",
+        "url": "https://online.metro-cc.ru/products/rioba-v-zernah-naturalnyj-zharenyj-silver-1kg"
+    },
+    {
+        "name": "Кофе Kimbo Aroma Gold Arabica в зернах, 1кг",
+        "id": "629014",
+        "price_with_discount": "2 399",
+        "price_without_discount": "3 499 д",
+        "brand": "Кофе Kimbo Aroma G",
+        "url": "https://online.metro-cc.ru/products/kimbo-v-zernah-aroma-gold-arabica-1kg"
+    },
+    {
+        "name": "Кофе Monarch Milligrano растворимый с молотым, 200г",
+        "id": "230306",
+        "price_with_discount": "599",
+        "price_without_discount": "1 139 д",
+        "brand": "Кофе Monarch Milli",
+        "url": "https://online.metro-cc.ru/products/kofe-monarch-milligrano-rastvorimyy-s-molotym-200g"
+    },
+    {
+        "name": "Кофе Fresco Arabica Barista в зернах, 1кг",
+        "id": "249900",
+        "price_with_discount": "1 099",
+        "price_without_discount": "1 899 д",
+        "brand": "Кофе Fresco Arabic",
+        "url": "https://online.metro-cc.ru/products/kofe-fresco-arabica-barista-v-zernah-1kg"
+    },
+    {
+        "name": "Кофе Poetti Leggenda Oro в зернах, 1кг",
+        "id": "218716",
+        "price_with_discount": "1 499",
+        "price_without_discount": "2 589 д",
+        "brand": "Кофе Poetti Leggen",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-poetti-leggenda-oro-v-zernah"
+    },
+    {
+        "name": "Кофе Ambassador Blue Label в зернах, 1кг",
+        "id": "665877",
+        "price_with_discount": "1 299",
+        "price_without_discount": "2 599 д",
+        "brand": "Кофе Ambassador Bl",
+        "url": "https://online.metro-cc.ru/products/ambassador-blue-label-zernovoj-1000-g"
+    },
+    {
+        "name": "Кофе Julius Meinl Сaffe Crema Premium Collection в зернах, 1кг",
+        "id": "654818",
+        "price_with_discount": "1 899",
+        "price_without_discount": "2 599 д",
+        "brand": "Кофе Julius Meinl ",
+        "url": "https://online.metro-cc.ru/products/julius-meinl-krema-premium-1kg"
+    },
+    {
+        "name": "Кофе Poetti Leggenda Original в зернах, 1кг",
+        "id": "218712",
+        "price_with_discount": "1 499",
+        "price_without_discount": "2 589 д",
+        "brand": "Кофе Poetti Leggen",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-poetti-leggenda-original-v-zernah"
+    },
+    {
+        "name": "Кофе Jardin Americano Crema в зернах, 1кг",
+        "id": "561302",
+        "price_with_discount": "1 189",
+        "price_without_discount": "1 879 д",
+        "brand": "Кофе Jardin Americ",
+        "url": "https://online.metro-cc.ru/products/jardin-americano-crema-1000-g"
+    },
+    {
+        "name": "Кофе Poetti Daily Arabica в зернах, 1кг",
+        "id": "218720",
+        "price_with_discount": "999",
+        "price_without_discount": "1 929 д",
+        "brand": "Кофе Poetti Daily ",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-poetti-daily-arabica-v-zernah"
+    },
+    {
+        "name": "Кофе Carte Noire Instinct растворимый, 95г",
+        "id": "260443",
+        "price_with_discount": "479",
+        "price_without_discount": "889 д",
+        "brand": "Кофе Carte Noire I",
+        "url": "https://online.metro-cc.ru/products/art-260443"
+    },
+    {
+        "name": "Кофе Bushido Black Katana в зернах, 1кг",
+        "id": "110546",
+        "price_with_discount": "1 899",
+        "price_without_discount": "2 999 д",
+        "brand": "Кофе Bushido Black",
+        "url": "https://online.metro-cc.ru/products/kofe-zernovoj-bushido-black-katana-1000g"
+    },
+    {
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Capuccino 8 порций 16 капсул, 192г",
+        "id": "133439",
+        "price_with_discount": "399",
+        "price_without_discount": "519 д",
+        "brand": "RIOBA Кофе в капсу",
+        "url": "https://online.metro-cc.ru/products/192g-kofe-v-kaps-rioba-dolce-gusto-cappuccino"
+    },
+    {
+        "name": "Кофе Bushido Kodo растворимый, 95г",
+        "id": "598958",
+        "price_with_discount": "749",
+        "price_without_discount": "999 д",
+        "brand": "Кофе Bushido Kodo ",
+        "url": "https://online.metro-cc.ru/products/bushido-v-kristallah-kodo-95g"
+    },
+    {
+        "name": "Кофе Fresco Arabica Solo в зернах, 1кг",
+        "id": "59409",
+        "price_with_discount": "1 399",
+        "price_without_discount": "1 749 д",
+        "brand": "Кофе Fresco Arabic",
+        "url": "https://online.metro-cc.ru/products/fresco-arabica-solo-v-zernah-1000-g"
+    },
+    {
+        "name": "Кофе Monarch Original растворимый, 190г",
+        "id": "224737",
+        "price_with_discount": "599",
+        "price_without_discount": "919 д",
+        "brand": "Кофе Monarch Origi",
+        "url": "https://online.metro-cc.ru/products/190g-kofe-monarch-original-rastvorimyy-st"
+    },
+    {
+        "name": "Кофе Egoiste Double Espresso, 100г",
+        "id": "72873",
+        "price_with_discount": "459",
+        "price_without_discount": "749 д",
+        "brand": "Кофе Egoiste Doubl",
+        "url": "https://online.metro-cc.ru/products/egoiste-double-espresso-100g"
+    },
+    {
+        "name": "Кофе Julius Meinl Юбилейный в зернах, 500г",
+        "id": "384608",
+        "price_with_discount": "899",
+        "price_without_discount": "1 299 д",
+        "brand": "Кофе Julius Meinl ",
+        "url": "https://online.metro-cc.ru/products/julius-meinl-v-zernah-naturalnyj-zharenyj-jubileum-500g"
+    },
+    {
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Grande Intenso 16шт, 112г",
+        "id": "8359",
+        "price_with_discount": "429",
+        "price_without_discount": "519 д",
+        "brand": "RIOBA Кофе в капсу",
+        "url": "https://online.metro-cc.ru/products/rioba-dolce-gusto-grande-intenso-16sht"
+    },
+    {
+        "name": "Кофе Julius Meinl Caffe Crema Intenso Trend Collection в зернах, 1кг",
+        "id": "654820",
+        "price_with_discount": "1 499",
+        "price_without_discount": "2 049 д",
+        "brand": "Кофе Julius Meinl ",
+        "url": "https://online.metro-cc.ru/products/v-zernah-julius-meinl-krema-intenso-trend-kollekciya-1000g"
+    },
+    {
+        "name": "Кофе Нескафе Голд растворимый, 190г",
+        "id": "433965",
+        "price_with_discount": "499",
+        "price_without_discount": "699 д",
+        "brand": "Кофе Нескафе Голд ",
+        "url": "https://online.metro-cc.ru/products/nescafe-gold-190g"
+    },
+    {
+        "name": "Кофе Egoiste Voyage в зернах, 1кг",
+        "id": "228291",
+        "price_with_discount": "1 699",
+        "price_without_discount": "2 369 д",
+        "brand": "Кофе Egoiste Voyag",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-egoiste-voyage-v-zernah"
+    },
+    {
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Latte Macciato 8 порций 16 капсул, 192г х 3 шт",
+        "id": "243175",
+        "price_with_discount": "1 557",
+        "price_without_discount": "",
+        "brand": "RIOBA Кофе в капсу",
+        "url": "https://online.metro-cc.ru/products/rioba-kofe-v-kapsulah-dolce-gusto-latte-macciato-8-portsiy-16-kapsul-192g-h-3-sht"
+    },
+    {
+        "name": "Кофе Bushido Red Katana в зернах, 227г",
+        "id": "59005",
+        "price_with_discount": "469",
+        "price_without_discount": "689 д",
+        "brand": "Кофе Bushido Red K",
+        "url": "https://online.metro-cc.ru/products/art-59005"
+    },
+    {
+        "name": "Кофе Fresco Espresso Italiano зерновой, 900г",
+        "id": "245277",
+        "price_with_discount": "1 299",
+        "price_without_discount": "2 299 д",
+        "brand": "Кофе Fresco Espres",
+        "url": "https://online.metro-cc.ru/products/kofe-fresco-espresso-italiano-zernovoy-900g"
+    },
+    {
+        "name": "RIOBA Кофе в капсулах Cremoso для кофемашин Nespresso 11шт, 55г",
+        "id": "530966",
+        "price_with_discount": "239",
+        "price_without_discount": "285 д",
+        "brand": "RIOBA Кофе в капсу",
+        "url": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-cremoso-11x5g"
+    },
+    {
+        "name": "Кофе Julius Meinl Юбилейный классическая коллекция в зернах, 1кг",
+        "id": "104610",
+        "price_with_discount": "1 899",
+        "price_without_discount": "2 459 д",
+        "brand": "Кофе Julius Meinl ",
+        "url": "https://online.metro-cc.ru/products/yubilejnyj-julius-meinl-1000g"
+    },
+    {
+        "name": "RIOBA Кофе в капсулах Dolce Gusto Americano 16шт, 112г",
+        "id": "8352",
+        "price_with_discount": "429",
+        "price_without_discount": "519 д",
+        "brand": "RIOBA Кофе в капсу",
+        "url": "https://online.metro-cc.ru/products/rioba-dolce-gusto-americano-16sht"
+    },
+    {
+        "name": "Кофе Jardin Dessert Capuccino в зернах, 1кг",
+        "id": "101496",
+        "price_with_discount": "1 149",
+        "price_without_discount": "2 099 д",
+        "brand": "Кофе Jardin Desser",
+        "url": "https://online.metro-cc.ru/products/jardin-dessert-capuccino-1000g"
+    },
+    {
+        "name": "Кофе Origo Cafe Crema в зернах, 1кг",
+        "id": "624869",
+        "price_with_discount": "1 999",
+        "price_without_discount": "2 599 д",
+        "brand": "Кофе Origo Cafe Cr",
+        "url": "https://online.metro-cc.ru/products/art-624869"
+    },
+    {
+        "name": "Кофе в капсулах L’or Espresso Ristretto для кофемашин Nespresso 10шт, 52г",
+        "id": "637202",
+        "price_with_discount": "379",
+        "price_without_discount": "499 д",
+        "brand": "Кофе в капсулах L’",
+        "url": "https://online.metro-cc.ru/products/l-rsquoor-ristretto-52-g"
+    },
+    {
+        "name": "Набор кофе в капсулах Coffesso для кофемашин Nespresso ассорти 50шт, 250г",
+        "id": "72533",
+        "price_with_discount": "899",
+        "price_without_discount": "1 999 д",
+        "brand": "Набор кофе в капсу",
+        "url": "https://online.metro-cc.ru/products/coffesso-nabor-v-kapsulah-50-sht-h-5-g"
+    },
+    {
+        "name": "Кофе Poetti Daily Classic Crema в зернах, 1кг",
+        "id": "218719",
+        "price_with_discount": "1 199",
+        "price_without_discount": "1 669 д",
+        "brand": "Кофе Poetti Daily ",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-poetti-daily-classic-crema-v-zernah"
+    },
+    {
+        "name": "Кофе Piazza del Caffe Espresso Forte в зернах, 1кг",
+        "id": "228232",
+        "price_with_discount": "1 099",
+        "price_without_discount": "1 249 д",
+        "brand": "Кофе Piazza del Ca",
+        "url": "https://online.metro-cc.ru/products/1kg-kofe-piazza-del-caffe-espresso-forte-zerno"
+    },
+    {
+        "name": "Кофе Нескафе Gold Aroma Intenso растворимый сублимированный с добавлением натурального жареного молотого кофе, 800г",
+        "id": "259882",
+        "price_with_discount": "1 799",
+        "price_without_discount": "2 699 д",
+        "brand": "Кофе Нескафе Gold ",
+        "url": "https://online.metro-cc.ru/products/800g-kofe-nescafe-gold-aroma-intenso-rastvorimyy-sublim"
+    },
+    {
+        "name": "Кофе Egoiste Arabica Premium натуральный жареный в зернах, 1кг x 4 шт",
+        "id": "31895",
+        "price_with_discount": "5 996",
+        "price_without_discount": "9 996 д",
+        "brand": "Кофе Egoiste Arabi",
+        "url": "https://online.metro-cc.ru/products/v-zernah-egoiste-noir-100-arabika-1kg"
+    },
+    {
+        "name": "Кофе Нескафе Голд растворимый сублимированный, 500г",
+        "id": "604157",
+        "price_with_discount": "1 149",
+        "price_without_discount": "1 569 д",
+        "brand": "Кофе Нескафе Голд ",
+        "url": "https://online.metro-cc.ru/products/nescafe-sublimirovannyj-gold-500g"
+    },
+    {
+        "name": "Кофе Alta Roma Caffe Latte в зернах, 1кг",
+        "id": "226466",
+        "price_with_discount": "1 099",
+        "price_without_discount": "1 299 д",
+        "brand": "Кофе Alta Roma Caf",
+        "url": "https://online.metro-cc.ru/products/kofe-alta-roma-caffe-latte-v-zernakh-1kg"
+    },
+    {
+        "name": "RIOBA Кофе в капсулах Armonioso для кофемашин Nespresso 11шт, 55г",
+        "id": "530965",
+        "price_with_discount": "239",
+        "price_without_discount": "285 д",
+        "brand": "RIOBA Кофе в капсу",
+        "url": "https://online.metro-cc.ru/products/rioba-dlya-kofemashin-armonioso-10x5g"
+    },
+    {
+        "name": "Кофе Egoiste Truffle растворимый сублимированный, 95г",
+        "id": "228295",
+        "price_with_discount": "699",
+        "price_without_discount": "1 049 д",
+        "brand": "Кофе Egoiste Truff",
+        "url": "https://online.metro-cc.ru/products/kofe-egoiste-truffle-rastvorimyy-sublimirovannyy-95g"
+    },
+    {
+        "name": "Кофе в капсулах Jardin Vanillia Rich&Sweet для кофемашин Nespresso 10шт, 50г",
+        "id": "119136",
+        "price_with_discount": "269",
+        "price_without_discount": "389 д",
+        "brand": "Кофе в капсулах Ja",
+        "url": "https://online.metro-cc.ru/products/10h5g-jardin-vanillia"
     }
 ]
